@@ -4,3 +4,6 @@ https://docs.google.com/spreadsheets/d/17qyTgUr0J6coBJ8nECqElrw7AHkn1u9CH_GL02gv
 
 
 https://docs.google.com/document/d/1IHkOnr52G2JBBe6cleCBNSU4kXudQkHT5a8dyZieTe0/edit?usp=drivesdk
+
+exam-1
+https://docs.google.com/document/d/1uqACeGxoOHFnDffVm7XAVW5FT6czkITtXoT78FI_Djw/edit?usp=drivesdk
